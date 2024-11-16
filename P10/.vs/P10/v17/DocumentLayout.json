@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\HW5\\P10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2BB66-4632-4F20-A3E5-09E3AB93D687}|P10\\P10.vcxproj|C:\\Users\\Administrator\\Desktop\\HW5\\P10\\P10\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89C2BB66-4632-4F20-A3E5-09E3AB93D687}|P10\\P10.vcxproj|solutionrelative:P10\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2BB66-4632-4F20-A3E5-09E3AB93D687}|P10\\P10.vcxproj|C:\\Users\\Administrator\\Desktop\\HW5\\P10\\P10\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89C2BB66-4632-4F20-A3E5-09E3AB93D687}|P10\\P10.vcxproj|solutionrelative:P10\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW5\\P10\\P10\\Main.cpp",
+              "RelativeDocumentMoniker": "P10\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW5\\P10\\P10\\Main.cpp",
+              "RelativeToolTip": "P10\\Main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T04:54:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW5\\P10\\P10\\Main.c",
+              "RelativeDocumentMoniker": "P10\\Main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW5\\P10\\P10\\Main.c",
+              "RelativeToolTip": "P10\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-15T04:52:49.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
